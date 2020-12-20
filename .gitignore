@@ -1,5 +1,6 @@
 logs/*.log
-.DSstore
+.DS_Store
 !.gitkeep
 .vscode
 db.sqlite3
+*.code-workspace
