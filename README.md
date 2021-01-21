@@ -24,3 +24,6 @@ pipenv install
 ```
 python manage.py runserver
 ```
+
+### Rest API login
+http://localhost:8000/api/v1/rest-auth/login/
